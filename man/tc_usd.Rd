@@ -4,7 +4,7 @@
 Cotización Dólar USA billete
 }
 \description{
-Cotización histórica Dólar USA Billete, desde el año 2000 a la fecha
+Cotización histórica Dólar USA Billete, desde el año 2000 a la fecha.
 }
 \usage{
 tc_usd(df)

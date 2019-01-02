@@ -12,13 +12,13 @@
 \item{\code{Compra}}{Precio compra}
 \item{\code{Arbitraje}}{Arbitraje}
 }
-Se tiene 4770 cotizaciones de dólar usa billete publicadas
+Se tiene 4770 cotizaciones diarias del dólar usa billete publicadas
 entre el 03/01/2000 y el 28/12/2018.}
 \usage{
 tc_bcu
 }
 \description{
-Cotización histórica Dólar USA Billete, desde el año 2000 a la fecha
+Cotización histórica Dólar USA Billete, desde el año 2000 a la fecha.
 }
 \examples{
   tc_bcu

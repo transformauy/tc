@@ -10,7 +10,7 @@ Cotización mensual histórica dólar USA billete, desde el año 2000 a la fecha
 tc_usd_mensual()
 }
 \details{
-Función para cargar cotización mensual histórica del dólar usa billete.
+Función para cargar cotización mensual histórica del dólar usa billete. Creada a partir de tc_usd().
 }
 \value{
 }

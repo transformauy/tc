@@ -10,7 +10,7 @@ Cotización anual histórica dólar USA billete, desde el año 2000 a la fecha.
 tc_usd_anual()
 }
 \details{
-Función para cargar cotización anual histórica del dólar usa billete.
+Función para cargar cotización anual histórica del dólar usa billete. Creada a partir de tc_usd().
 }
 \value{
 }
