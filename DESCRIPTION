@@ -1,0 +1,17 @@
+Package: tc
+Type: Package
+Date: Enero 2019
+Title: Paquete para cargar cotización dólar usa billete
+Version: 0.1.0
+Author: Observatorio Productivo - Transforma Uruguay
+Maintainer: The package maintainer <vburguete@transformauruguay.gub.uy>
+Description: Paquete para cargar cotización del dólar usa billete, contiene
+     tc_usd (Cotizaciones diarias publicadas en la web del BCU),
+     tc_usd_mensual (Cotizaciones mensuales desde Enero 2000 a Diciembre 2018),
+     tc_usd_anual (Cotizaciones anuales desde el 2000 a la fecha).
+License: What license is it under?
+Encoding: UTF-8
+Depends:
+ readxl, dplyr, lubridate
+LazyData: true
+RoxygenNote: 6.1.0.9000
